@@ -1,0 +1,7 @@
+C:\Users\computer1\Desktop\MSChart\MSChart\bin\Debug\MSChart.exe.config
+C:\Users\computer1\Desktop\MSChart\MSChart\bin\Debug\MSChart.exe
+C:\Users\computer1\Desktop\MSChart\MSChart\bin\Debug\MSChart.pdb
+C:\Users\computer1\Desktop\MSChart\MSChart\obj\Debug\MSChart.Properties.Resources.resources
+C:\Users\computer1\Desktop\MSChart\MSChart\obj\Debug\MSChart.csproj.GenerateResource.Cache
+C:\Users\computer1\Desktop\MSChart\MSChart\obj\Debug\MSChart.exe
+C:\Users\computer1\Desktop\MSChart\MSChart\obj\Debug\MSChart.pdb

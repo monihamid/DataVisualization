@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSChart", "MSChart\MSChart.csproj", "{B7BB6B27-8695-4E4E-8D89-A209AB4BFDF8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7BB6B27-8695-4E4E-8D89-A209AB4BFDF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7BB6B27-8695-4E4E-8D89-A209AB4BFDF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7BB6B27-8695-4E4E-8D89-A209AB4BFDF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7BB6B27-8695-4E4E-8D89-A209AB4BFDF8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
